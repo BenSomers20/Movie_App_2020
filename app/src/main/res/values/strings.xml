@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="button_addMovie">Add Movie</string>
+    <string name="hint_movieTitle">Movie Title</string>
+    <string name="hint_movieDescription">Description </string>
+    <string name="menu_addMovie">Add</string>
+    <string name="menu_deleteMovie">Delete</string>
+    <string name="menu_cancelMovie">Cancel</string>
+    <string name="enter_movie_title"> Please enter a Movie Title </string>
+    <string name="save_movie"> Save Movie </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_movie_image">Select Movie image</string>
+    <string name="change_movie_image">Change movie image</string>
+    <string name="movie_image">movie image</string>
+</resources>
